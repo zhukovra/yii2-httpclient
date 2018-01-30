@@ -27,6 +27,11 @@ composer.phar
 phpunit.phar
 # local phpunit config
 /phpunit.xml
+# coverage results
+/clover.xml
+
+# Codeclimate binary
+/cc-test-reporter
 
 # local tests configuration
 /tests/data/config.local.php
